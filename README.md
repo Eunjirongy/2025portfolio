@@ -3,3 +3,5 @@
 # 디자인
 figma
 https://www.figma.com/design/0271wKrExdylwGgBeHVJio/2025portfolio?node-id=0-1&t=pAyqtO9lNGVRXPg2-1
+# 개발 언어
+react, HTML, CSS
